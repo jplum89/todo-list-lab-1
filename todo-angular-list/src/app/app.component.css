@@ -27,9 +27,10 @@ header {
     border-radius: 5px;
 }
 
-#add-btn {
+.add-btn {
     background-color: pink;
     color: white;
+    height: 45px;
 
 }
 
